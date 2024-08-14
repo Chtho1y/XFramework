@@ -1,6 +1,5 @@
 ## XFramework
 <img src="https://img.shields.io/github/stars/Chtho1y/XFramework?style=social">
-<strong>你的star就是我的动力✨</strong>
 
 <p align="center">
     <img src="others/XFramework.png" alt="XFramework Logo" width="384" height="384">
