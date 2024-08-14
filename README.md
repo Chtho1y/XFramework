@@ -56,7 +56,7 @@ To get a quick overview of how to run XFramework on various platforms, in Unity 
 https://github.com/Chtho1y/XFramework.git
 ```
 要快速了解如何在各个平台上运行 XFramework, 在 Unity 包管理器中通过 git URL 添加包。
- <img src="https://github.com/user-attachments/assets/815d0c10-cf15-42f2-a9a5-a991c4b6cfcb" width="600"/>
+ <img src="https://github.com/user-attachments/assets/82faad3b-f08d-41c6-a927-f6d5647b7abf" width="600"/>
  
 Or add the following to your project's `manifest.json` file in the `Packages` folder:
 或者在项目的 `Packages` 文件夹中的 `manifest.json` 文件中添加以下内容：
@@ -169,6 +169,9 @@ Join our community to discuss and get support for XFramework:
 ## Buy Me a Milk Tea | 请我喝杯奶茶
 <strong> If XFramework has helped you, consider [buying me a milk tea](others/Donate/Donate.md). Your support will enable us to improve and develop faster.
 如果 XFramework 对您有帮助，考虑[请我喝杯奶茶](others/Donate/Donate.md)。您的支持将帮助我更好更快地改进和发展。</strong>
+
+## Stargazers
+[![Stargazers repo roster for @Chtho1y/XEngine](https://reporoster.com/stars/Chtho1y/XEngine)](https://github.com/Chtho1y/XEngine/stargazers)
 
 ## Star History
 
