@@ -41,7 +41,7 @@ XFramework 是一个强大且新手友好的 Unity 框架，提供跨平台开�
    
    只需 5 分钟即可开始使用 XFramework。框架提供了整洁有序的代码库，易于理解和扩展。由于其高内聚低耦合的设计，您可以快速移除或替换不需要的模块。
    
-2. **Commercial-Grade Performance | 商业级性能**: Leveraging XLua for hot updates, XFramework is optimized for mobile platforms and has been validated in high-DAU commercial games. It features XLua for hot updates, the best Luban configuration tables, and the YooAsset resource framework, ensuring efficient resource management and memory usage.
+2. **Commercial-Grade Performance | 商业级性能**: Leveraging XLua \ HybridCLR for hot updates, XFramework is optimized for mobile platforms and has been validated in high-DAU commercial games. It features XLua \ HybridCLR for hot updates, the best Luban configuration tables, and the YooAsset resource framework, ensuring efficient resource management and memory usage.
    
    支持利用 XLua \ HybridCLR 进行热更新，XFramework 针对移动平台进行了优化，并在高 DAU 商业游戏中得到验证。具有高效的资源管理和内存使用。
 
