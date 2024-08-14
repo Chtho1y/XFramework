@@ -43,7 +43,7 @@ XFramework 是一个强大且新手友好的 Unity 框架，提供跨平台开�
    
 2. **Commercial-Grade Performance | 商业级性能**: Leveraging XLua for hot updates, XFramework is optimized for mobile platforms and has been validated in high-DAU commercial games. It features XLua for hot updates, the best Luban configuration tables, and the YooAsset resource framework, ensuring efficient resource management and memory usage.
    
-   利用 XLua 进行热更新，XFramework 针对移动平台进行了优化，并在高 DAU 商业游戏中得到验证。具有高效的资源管理和内存使用。
+   支持利用 XLua \ HybridCLR 进行热更新，XFramework 针对移动平台进行了优化，并在高 DAU 商业游戏中得到验证。具有高效的资源管理和内存使用。
 
 3. **Cross-Platform Support | 跨平台支持**: XFramework supports multiple platforms, including Steam, WeChat Minigame, and AppStore. The framework has already been used in projects available on these platforms.
    
