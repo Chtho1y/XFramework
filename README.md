@@ -38,16 +38,20 @@ XFramework 是一个强大且新手友好的 Unity 框架，提供跨平台开�
 ## Why Choose XFramework? | 为什么选择 XFramework？
 
 1. **Easy to Use | 易于使用**: Get started with XFramework in just 5 minutes. The framework offers a clean and organized codebase, making it easy to understand and extend. You can quickly remove or replace modules you don't need, thanks to its high cohesion and low coupling design.
+   
    只需 5 分钟即可开始使用 XFramework。框架提供了整洁有序的代码库，易于理解和扩展。由于其高内聚低耦合的设计，您可以快速移除或替换不需要的模块。
    
 2. **Commercial-Grade Performance | 商业级性能**: Leveraging XLua for hot updates, XFramework is optimized for mobile platforms and has been validated in high-DAU commercial games. It features XLua for hot updates, the best Luban configuration tables, and the YooAsset resource framework, ensuring efficient resource management and memory usage.
+   
    利用 XLua 进行热更新，XFramework 针对移动平台进行了优化，并在高 DAU 商业游戏中得到验证。具有高效的资源管理和内存使用。
 
 3. **Cross-Platform Support | 跨平台支持**: XFramework supports multiple platforms, including Steam, WeChat Minigame, and AppStore. The framework has already been used in projects available on these platforms.
+   
    XFramework 支持多个平台，包括 Steam、微信小游戏和 AppStore。该框架已被用于这些平台上的项目。
 
-4. **Modular Design | 模块化设计**: From asset bundles to UI components, XFramework's modular architecture allows you to pick and choose the features you need for your project, enhancing flexibility and scalability.
-   从资源包到 UI 组件，XFramework 的模块化架构允许您根据项目需求选择所需功能，提高了灵活性和可扩展性。
+4. **Modular Design | 模块化设计**: From asset bundles to UI components, XFramework's modular architecture allows you to pick and choose the features you need for your project, enhancing flexibility and scalability. This framework supports ECS (Entity Component System) for large-scale simulations, allowing thousands of players to be displayed on the same screen.
+   
+   从资源包到 UI 组件，XFramework 的模块化架构允许您根据项目需求选择所需功能，提高了灵活性和可扩展性。该框架支持 ECS 万人同屏功能，适用于大规模工业仿真或游戏 GPU 动画模拟。
 
 ## Quick Start Guide | 快速入门指南
 
