@@ -56,7 +56,7 @@ To get a quick overview of how to run XFramework on various platforms, in Unity 
 https://github.com/Chtho1y/XFramework.git
 ```
 要快速了解如何在各个平台上运行 XFramework, 在 Unity 包管理器中通过 git URL 添加包。
- <img src="https://github.com/user-attachments/assets/815d0c10-cf15-42f2-a9a5-a991c4b6cfcb" width="600"/>
+ <img src="https://github.com/user-attachments/assets/82faad3b-f08d-41c6-a927-f6d5647b7abf" width="600"/>
  
 Or add the following to your project's `manifest.json` file in the `Packages` folder:
 或者在项目的 `Packages` 文件夹中的 `manifest.json` 文件中添加以下内容：
