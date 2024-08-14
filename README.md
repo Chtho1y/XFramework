@@ -273,7 +273,7 @@ Join our community to discuss and get support for XFramework:
 如果 XFramework 对您有帮助，考虑[请我喝杯奶茶](others/Donate/Donate.md)。您的支持将帮助我更好更快地改进和发展。</strong>
 
 ## Stargazers
-[![Stargazers repo roster for @Chtho1y/XEngine](https://reporoster.com/stars/Chtho1y/XEngine)](https://github.com/Chtho1y/XEngine/stargazers)
+[![Stargazers repo roster for @Chtho1y/XFramework](https://reporoster.com/stars/Chtho1y/XFramework)](https://github.com/Chtho1y/XFramework/stargazers)
 
 ## Star History
 
