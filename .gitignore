@@ -1,0 +1,15 @@
+desktop.ini
+.DS_Store
+*.lnk
+~$*
+bin
+*.pyc
+node_modules
+*/.idea/*
+StreamingAssets/
+StreamingAssets.meta
+InitTestScene*
+/hooks/
+/lfs/
+**/CodeCoverage/
+package-lock.json
