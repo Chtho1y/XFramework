@@ -47,7 +47,7 @@ XFramework 是一个强大且新手友好的 Unity 框架，提供跨平台开�
 
 3. **Cross-Platform Support | 跨平台支持**: XFramework supports multiple platforms, including Steam, WeChat Minigame, and AppStore. The framework has already been used in projects available on these platforms.
    
-   XFramework 支持多个平台，包括 Steam、微信小游戏和 AppStore。该框架已被用于这些平台上的项目。
+   XFramework 支持多个平台，包括 Steam、微信小游戏和 AppStore。该框架已被用于这些平台上的游戏和工业项目。
 
 4. **Modular Design | 模块化设计**: From asset bundles to UI components, XFramework's modular architecture allows you to pick and choose the features you need for your project, enhancing flexibility and scalability. This framework supports ECS (Entity Component System) for large-scale simulations, allowing thousands of players to be displayed on the same screen.
    
