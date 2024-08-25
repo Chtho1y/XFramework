@@ -65,7 +65,8 @@ Or add the following to your project's `manifest.json` file in the `Packages` fo
 或者在项目的 `Packages` 文件夹中的 `manifest.json` 文件中添加以下内容：
 ```json
 {
-  "dependencies": {
+  "dependencies":
+  {
     "com.chtho1y.XFramework": "https://github.com/Chtho1y/XFramework.git"
   }
 }
