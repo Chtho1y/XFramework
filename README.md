@@ -4,7 +4,7 @@
 <p align="center">
     <img src="others/XFramework.png" alt="XFramework Logo" width="384" height="384">
 </p>
-<h3 align="center"><strong>XFramework</strong></h3>
+<h2 align="center"><strong>XFramework</strong></h2>
 <p align="center">
   <strong>一站式Unity商业化游戏框架解决方案 | The Ultimate Unity Framework Solution</strong>
     <br>
