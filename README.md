@@ -1,4 +1,3 @@
-## XFramework
 <p align="center">
     <img src="others/XFramework.png" alt="XFramework Logo" width="384" height="384">
 </p>
