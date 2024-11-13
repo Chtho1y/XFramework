@@ -170,6 +170,8 @@ To ensure the best experience with XFramework, we recommend using the following 
 Join our community to discuss and get support for XFramework:
 加入我们的社区，讨论并获取 XFramework 的支持：
 * [QQ Group: 574763941](https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=C_grV7Zwbegcjlk79wDdvkh8PtRKPkDU&authKey=pwnX5CZ%2FWmWD4D5tRFbHyOy6WHXJ99L%2B%2BCzZH%2B33lH9Qx1Z5AtbVEZXIhEwYqFHq&noverify=0&group_code=574763941)
+* 联系QQ:939526265
+* [个人站](aiqwq.com)
 
 ## Buy Me a Milk Tea | 请我喝杯奶茶
 <strong> If XFramework has helped you, consider [buying me a milk tea](others/Donate/Donate.md). Your support will enable us to improve and develop faster.
