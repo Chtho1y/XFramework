@@ -1,6 +1,4 @@
 ## XFramework
-<img src="https://img.shields.io/github/stars/Chtho1y/XFramework?style=social">
-
 <p align="center">
     <img src="others/XFramework.png" alt="XFramework Logo" width="384" height="384">
 </p>
@@ -27,6 +25,7 @@
   </a>
   <br>
 </p>
+<img src="https://img.shields.io/github/stars/Chtho1y/XFramework?style=social">
 
 ## Introduction | 简介
 
