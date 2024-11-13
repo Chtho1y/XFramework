@@ -75,7 +75,7 @@ Or add the following to your project's `manifest.json` file in the `Packages` fo
 ## Project Structure | 项目结构
 * [Project Structure](others/Structure.md)
 ```
-XEngine
+XFramework
 ├── Editor
 │ ├── AssetBundleBuilder
 │ │ ├── AssetBundleBuilder
