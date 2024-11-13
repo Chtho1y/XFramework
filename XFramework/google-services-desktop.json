@@ -1,20 +1,20 @@
 {
   "project_info": {
-    "project_number": "1069117161602",
-    "project_id": "darling003-a6baf",
-    "storage_bucket": "darling003-a6baf.appspot.com"
+    "project_number": "1000000000",
+    "project_id": "-abcde",
+    "storage_bucket": "-abcde.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1069117161602:ios:d3c9c654f9a6d1bdd9f49b",
+        "mobilesdk_app_id": "1:1000000000000:ios:d0000000000000000b",
         "android_client_info": {
-          "package_name": "com.hy.darling"
+          "package_name": "com.companyname.productname"
         }
       },
       "api_key": [
         {
-          "current_key": "AIzaSyD_s9RsMjEXk4fPHHjYtpzblB3QmcYLymY"
+          "current_key": ""
         }
       ],
       "services": {
@@ -27,7 +27,7 @@
       },
       "oauth_client": [
         {
-          "client_id": "1069117161602-0pm24b996ef3ujprt5obhi1k3lto02jn.apps.googleusercontent.com"
+          "client_id": ".apps.googleusercontent.com"
         }
       ]
     }
