@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="others/XFramework.png" alt="XFramework Logo" width="384" height="384">
+    <img src="others/XFramework.png" alt="XFramework Logo" width="256" height="256">
 </p>
 
 <h1 align="center"><strong>XFramework</strong></h1>
