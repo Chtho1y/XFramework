@@ -1,0 +1,21 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" preserve="all" />
+	<assembly fullname="System.Core" preserve="all" />
+	<assembly fullname="UnityEngine">
+		<type fullname="UnityEngine.Animator" preserve="all"/>
+		<type fullname="UnityEngine.Animation" preserve="all"/>
+		<type fullname="UnityEngine.CoreModule" preserve="all"/>
+		<type fullname="UnityEngine.UI" preserve="all"/>
+		<type fullname="UnityEngine.UIModule" preserve="all"/>
+		<type fullname="UnityEngine.UnityWebRequestModule" preserve="all"/>
+	</assembly>
+	<assembly fullname="XEngine">
+		<type fullname="XEngine.Editor" preserve="all"/>
+		<type fullname="XEngine.Engine" preserve="all"/>
+		<type fullname="XEngine.Main" preserve="all"/>
+		<!-- <type fullname="XEngine.Net" preserve="all"/>
+		<type fullname="XEngine.SignIn" preserve="all"/> -->
+		<type fullname="XEngine.UI" preserve="all"/>
+	</assembly>
+	<assembly fullname="DOTween" preserve="all" />
+</linker>
