@@ -23,9 +23,12 @@
   <a style="text-decoration:none">
     <img src="https://img.shields.io/github/languages/top/Chtho1y/XFramework" alt="Top Language" />
   </a>
+  <a style="text-decoration:none">
+    <img src="https://img.shields.io/github/stars/Chtho1y/XFramework?style=social">
+  </a>
   <br>
 </p>
-<img src="https://img.shields.io/github/stars/Chtho1y/XFramework?style=social">
+
 
 ## Introduction | 简介
 
