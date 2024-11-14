@@ -181,6 +181,6 @@ Join our community to discuss and get support for XFramework:
 ## Stargazers
 [![Stargazers repo roster for @Chtho1y/XFramework](https://reporoster.com/stars/Chtho1y/XFramework)](https://github.com/Chtho1y/XFramework/stargazers)
 
-## Star History
+<!-- ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Chtho1y/XFramework&type=Date)](https://star-history.com/#Chtho1y/XFramework&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Chtho1y/XFramework&type=Date)](https://star-history.com/#Chtho1y/XFramework&Date) -->
